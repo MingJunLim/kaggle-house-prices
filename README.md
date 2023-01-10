@@ -29,15 +29,15 @@
 
 - [x] Metadata
 - [x] Variable Type Analysis (See [Metadata](https://docs.google.com/spreadsheets/d/1a9Xujf0RRGkbuMQxRL378L0dNUcwc2bz-GVxzeTmsT4))
-- [ ] Casting solution: Distribution of ordinal variables; Encoding selection.
-- [ ] Data Summary
+- [ ] Casting (Transformation) solution: Distribution of ordinal variables; Encoding selection.
+- [x] Data Summary
 
 ---
 
 ### 1. ETL Pipeline
 
 - [ ] Extract
-- [ ] Casting
+- [ ] Transformation
 - [ ] Loading
 
 ---
@@ -45,7 +45,7 @@
 ### 2. Exploratory Data Analysis
 
 - [ ] Feature Selection (Business / Data Understanding)
-- [ ] Data Cleaning
+- [ ] Data Cleaning (Missing Values, Imbalanced Datasets, Outliers)
 - [ ] Standarization / Normalization
 - [ ] Data Visualizations
 
